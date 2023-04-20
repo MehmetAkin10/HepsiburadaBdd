@@ -1,0 +1,28 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Hepsiburada anasayfa kontrol edilir
+* "AnasayfaKontrol" li element gorunur olana kadar bekle
+* "AnasayfaKontrol" li elementin oldugu kontrol edilir
+
+
+# Hesabım butonuna tıklanır
+* "HesabımButonu" id'li elemente tikla
+# Üye ol butonuna tıklanır
+* "UyeolButonu" xpath'li elemente tikla
+# E-mail bilgileri girildikten sonra devam butonuna tıklanarak ilerlenir
+* "EmailTextBox" id'li elemente tikla
+* "EmailTextBox" id'li elemente "mehmetaknn@hotmail.com" text degerini gonder
+* "DevamButonu" id'li elemente tikla
+# Gerekli alanlardaki kişisel bilgiler doldurulur
+* "AdTextBox" id'li elemente tikla
+* "AdTextBox" id'li elemente "Mehmet" text degerini gonder
+* "SoyAdTextBox" id'li elemente tikla
+* "SoyAdTextBox" id'li elemente "Akin" text degerini gonder
+* "ParolaTextBox" xpath'li elemente tikla
+* "ParolaTextBox" xpath'li elemente "Mehmet.1998" text degerini gonder
+# Rıza metin onayına tıklanır ve ardından üyeol ve tamam butonu ile üyelik oluşturulur
+* "RızaOnay" id'li elemente tikla
+* "ÜyeOlButonu" id'li elemente tikla
+* "TamamButonu" id'li elemente tikla
+

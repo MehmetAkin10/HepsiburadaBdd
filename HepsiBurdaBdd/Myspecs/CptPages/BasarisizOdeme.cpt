@@ -1,0 +1,6 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Başarısız ödeme uyarısı alınır
+* "ÖdemeyiTamamlaButonu" xpath'li elemente tikla
+* "KartNumarasıGirinUyarısı"  xpath'li elementin oldugu kontrol edilir

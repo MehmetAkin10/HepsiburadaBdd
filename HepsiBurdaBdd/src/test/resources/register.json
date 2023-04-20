@@ -1,0 +1,60 @@
+[
+  {
+    "key": "AnasayfaKontrol",
+    "value": "com.pozitron.hepsiburada:id/imageViewIcon",
+    "type": "id"
+  },
+
+  {
+    "key": "HesabımButonu",
+    "value": "com.pozitron.hepsiburada:id/account_menu_button",
+    "type": "id"
+  },
+
+  {
+    "key": "UyeolButonu",
+    "value": "//android.view.ViewGroup[@content-desc='account_menu_button_0']/android.view.ViewGroup/android.widget.Button",
+    "type": "xpath"
+  },
+  {
+    "key" : "EmailTextBox",
+    "value" : "com.pozitron.hepsiburada:id/button",
+    "type" : "id"
+  },
+
+  {
+    "key" : "DevamButonu",
+    "value" : "btnSignUpSubmit",
+    "type" : "id"
+  },
+  {
+    "key" : "AdTextBox",
+    "value" : "txtName",
+    "type" : "id"
+  },
+  {
+    "key" : "SoyAdTextBox",
+    "value" : "txtSurname",
+    "type" : "id"
+  },
+  {
+    "key" : "ParolaTextBox",
+    "value" : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]/android.widget.EditText",
+    "type" : "xpath"
+  },
+  {
+    "key" : "RızaOnay",
+    "value" : "checkSubscribeEmail",
+    "type" : "id"
+  },
+  {
+    "key" : "ÜyeOlButonu",
+    "value" : "btnSignUpSubmit",
+    "type" : "id"
+  },
+  {
+    "key" : "TamamButonu",
+    "value" : "android:id/button1",
+    "type" : "id"
+  }
+]
